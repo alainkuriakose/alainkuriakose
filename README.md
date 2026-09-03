@@ -65,11 +65,11 @@ flowchart LR
 </p>
 
 <table>
-<tr><td><b>SQL</b></td><td><img src="https://progress-bar.dev/85/?color=2E86AB&width=250"/></td></tr>
-<tr><td><b>Python (Pandas/NumPy)</b></td><td><img src="https://progress-bar.dev/85/?color=2E86AB&width=250"/></td></tr>
-<tr><td><b>Power BI / Tableau</b></td><td><img src="https://progress-bar.dev/75/?color=F2C811&width=250"/></td></tr>
-<tr><td><b>Excel</b></td><td><img src="https://progress-bar.dev/80/?color=1B998B&width=250"/></td></tr>
-<tr><td><b>Machine Learning</b></td><td><img src="https://progress-bar.dev/65/?color=C1121F&width=250"/></td></tr>
+<tr><td><b>SQL</b></td><td>████████████████████░░░ 85%</td></tr>
+<tr><td><b>Python (Pandas/NumPy)</b></td><td>████████████████████░░░ 85%</td></tr>
+<tr><td><b>Power BI / Tableau</b></td><td>██████████████████░░░░░ 75%</td></tr>
+<tr><td><b>Excel</b></td><td>███████████████████░░░░ 80%</td></tr>
+<tr><td><b>Machine Learning</b></td><td>████████████████░░░░░░░ 65%</td></tr>
 </table>
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -150,15 +150,6 @@ Text-processing tool that parses unstructured study notes and auto-generates que
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alainkuriakose&theme=tokyo-night&hide_border=true" width="90%"/>
 </p>
-
-
-  🐍 Optional: contribution snake animation
-  Uncomment the line below AFTER setting up the GitHub Action described
-  in snake-workflow.yml (included alongside this file). It animates your
-  contribution graph as a snake eating your commits.
-
-  <img src="https://raw.githubusercontent.com/alainkuriakose/alainkuriakose/output/github-contribution-grid-snake.svg" width="100%"/>
-
 
 ---
 
