@@ -151,16 +151,14 @@ Text-processing tool that parses unstructured study notes and auto-generates que
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alainkuriakose&theme=tokyo-night&hide_border=true" width="90%"/>
 </p>
 
-<!--
+
   🐍 Optional: contribution snake animation
   Uncomment the line below AFTER setting up the GitHub Action described
   in snake-workflow.yml (included alongside this file). It animates your
   contribution graph as a snake eating your commits.
 
   <img src="https://raw.githubusercontent.com/alainkuriakose/alainkuriakose/output/github-contribution-grid-snake.svg" width="100%"/>
--->
 
----
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
