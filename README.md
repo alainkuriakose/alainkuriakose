@@ -160,6 +160,8 @@ Text-processing tool that parses unstructured study notes and auto-generates que
   <img src="https://raw.githubusercontent.com/alainkuriakose/alainkuriakose/output/github-contribution-grid-snake.svg" width="100%"/>
 
 
+---
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
